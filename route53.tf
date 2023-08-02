@@ -7,3 +7,6 @@ resource "aws_route53_record" "mysql_dns_record" {
 }
 
 
+
+
+#added the records 
