@@ -14,3 +14,7 @@ resource "null_resource" "mysql_schema" {
         EOF 
     }
 }
+
+
+
+# schema for mysql
